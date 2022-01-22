@@ -1,0 +1,213 @@
+body {
+    font-family: Lato, sans-serif;
+    font-size: 11px;
+}
+
+.wrapper {
+    margin-left: 10px;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    font-size: 22px;
+    margin-top: 35px;
+    margin-bottom: 14px;
+}
+
+p {
+    box-sizing: border-box;
+    padding: 18px 18px;
+    color: white;
+    margin-bottom: 6px;
+    margin-top: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.iphone-xr {
+    background-color: red;
+    width: 462px;
+}
+
+.iphone-11 {
+    background-color: skyblue;
+    width: 372px;
+    color: black;
+}
+
+.galaxy-a10 {
+    background-color: burlywood;
+    width: 302px;
+    color: black;
+}
+
+.galaxy-a50 {
+    background-color: blueviolet;
+    width: 242px;
+    color: black;
+}
+
+.galaxy-a20 {
+    background-color: green;
+    width: 192px;
+}
+
+.wrapper1 {
+    border-style: solid;
+    border-collapse: collapse;
+    border-bottom-color: lightgrey;
+    border-radius: 5px;
+    border-width: thin;
+    margin-top: 17px;
+    margin-left: 11px;
+    box-sizing: border-box;
+    width: 440px;
+    height: 682px;
+}
+
+img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    vertical-align: bottom;
+}
+
+h2 {
+    font-size: 24px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+.price {
+    margin-left: 20px;
+}
+
+.lenovo {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 16px;
+    padding: 0px;
+    }
+
+.price {
+    color: orangered;
+    padding: 0px;
+    font-size: 18px;
+}
+
+.specifications {
+    background-color: lightgray;
+    box-sizing: border-box;
+    margin: 20px;
+    width: 400px;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.buy {
+    color: blueviolet;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.add {
+    color: blueviolet;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.buy:hover,
+.add:hover {
+    text-decoration: underline;
+}
+
+.back {
+    display: block;
+    font-style: italic;
+    font-size: 11px;
+    color: black;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.wrapper2 {
+    margin-left: 20px;
+    width: 1000px;
+    padding: 0px;
+    
+}
+
+.top {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    box-sizing: border-box;
+    background-color: pink;
+    height: 55px;
+    margin-bottom: 20px;
+}
+
+.header {
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 230px;
+}
+
+.articles {
+
+    color: black;
+    font-size: 18px;
+}
+
+.recommendations {
+    color: black;
+    font-size: 18px;
+
+}
+
+.about {
+    color: black;
+    font-size: 18px;
+}
+
+.heading {
+    font-family: "Cera CY", Helvetica, Arial, sans-serif;
+    background-color: blue;
+    color: white;
+    height: 400px;
+}
+
+.controll {
+    font-size: 62px;
+    margin-left: 9px;
+}
+
+h3 {
+    font-size: 34px;
+    margin-left: 10px;
+}
+
+p .heading {
+    font-family: serif;
+}
+
+.val {
+    color: black;
+}
